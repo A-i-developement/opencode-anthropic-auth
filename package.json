@@ -2,6 +2,9 @@
   "name": "opencode-anthropic-auth",
   "version": "0.0.13",
   "main": "./index.mjs",
+  "scripts": {
+    "test": "bun test"
+  },
   "devDependencies": {
     "@opencode-ai/plugin": "^0.4.45"
   },
